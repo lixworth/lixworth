@@ -1,6 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixworth&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
+
  ### Hi there 👋
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning many things.
+- 📫 How to reach me: liworth@outlook.com
 <!--
 **lixworth/lixworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
