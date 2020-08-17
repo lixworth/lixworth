@@ -1,5 +1,4 @@
-<div style="float: left;>
-            
+
  ### Hi there 👋
 - 🌱 I’m currently learning ...
 <!--
@@ -17,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- </div>
- 
-<div style="float: right;overflow: hidden;">
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lixworth)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  
 
