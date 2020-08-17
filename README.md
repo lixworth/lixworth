@@ -1,4 +1,4 @@
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixworth&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
  ### Hi there 👋
 - 🌱 I’m currently learning ...
 <!--
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lixworth)](https://github.com/anuraghazra/github-readme-stats)
   
+
+
 
