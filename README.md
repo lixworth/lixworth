@@ -3,7 +3,7 @@
  ### Hi there 👋
 
 - 🌱 I’m currently learning many things.
-- 📫 How to reach me: liworth@outlook.com
+- 📫 How to reach me: lixworth@outlook.com
 <!--
 **lixworth/lixworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
