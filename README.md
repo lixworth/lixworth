@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixworth&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
+<img align="left" src="https://metrics.lecoq.io/lixworth" />
 
  ### Hi there 👋
 
@@ -18,9 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mivinci&layout=compact&langs_count=6&hide=css&them=graywhite)
-
-
-![Metrics](https://metrics.lecoq.io/addyosmani)
 
