@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mivinci&layout=compact&langs_count=6&hide=css&them=graywhite)
 
 
+![Metrics](https://metrics.lecoq.io/addyosmani)
 
