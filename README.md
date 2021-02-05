@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
+  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mivinci&layout=compact&langs_count=6&hide=css&them=graywhite)
 
 
 
