@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning many things.
 - 📫 How to reach me: lixworth@outlook.com
-- 👯 I’m looking to collaborate on (@bugdhdj)[https://github.com/bugdhdj]
+- 👯 I’m looking to collaborate on [@bugdhdj](https://github.com/bugdhdj)
 - ♥️  I’m making [lixworth/rinobot](https://github.com/lixworth/rinobot) with love
 - I AM TOO YOUNG TOO SIMPLE BUG NOT TOO NAIVE 😃
 <!--
