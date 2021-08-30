@@ -6,7 +6,6 @@
 - 📫 How to reach me: lixworth@outlook.com
 - 👯 I’m looking to collaborate on (@bugdhdj)[https://github.com/bugdhdj]
 - ♥️  I’m making [lixworth/rinobot](https://github.com/lixworth/rinobot) with love
-
 - I AM TOO YOUNG TOO SIMPLE BUG NOT TOO NAIVE 😃
 <!--
 **lixworth/lixworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
