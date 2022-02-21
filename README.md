@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning many things.
 - 📫 How to reach me: lixworth@outlook.com
 - 👯 I’m looking to collaborate on [@bugdhdj](https://github.com/bugdhdj)
-- ♥️  I’m making [lixworth/rinobot](https://github.com/lixworth/rinobot) with love
+- ♥️  我 是 傻 逼
 
 <!--
 **lixworth/lixworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
