@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning many things.
 - 📫 How to reach me: lixworth@outlook.com
 - 👯 I’m looking to collaborate on [@bugdhdj](https://github.com/bugdhdj)
-- ♥️  我 是 傻 逼
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchunshu&layout=compact&locale=cn" />
 
 <!--
 **lixworth/lixworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
