@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning many things.
 - 📫 How to reach me: lixworth@outlook.com
 - 👯 I’m looking to collaborate on [@bugdhdj](https://github.com/bugdhdj)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixworth&layout=compact&locale=cn" />
 
 <!--
