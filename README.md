@@ -1,5 +1,1 @@
-<img align="left" src="https://metrics.lecoq.io/lixworth" />
-
- ### Hi there 👋
-- 🌱 I’m currently learning many things.
-- 📫 How to reach me: lixworth@outlook.com
+> Find something, dive into it, take the good parts, skip the bad parts, get what you can out of it, go on to something else.
